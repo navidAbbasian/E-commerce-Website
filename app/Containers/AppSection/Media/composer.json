@@ -1,0 +1,6 @@
+{
+    "name": "apiato/media",
+    "description": "Media Container for apiato.",
+    "require": {
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "name": "apiato/verificationcode",
+    "description": "VerificationCode Container for apiato.",
+    "require": {
+    }
+}

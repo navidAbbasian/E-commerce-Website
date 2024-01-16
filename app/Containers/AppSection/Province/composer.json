@@ -1,0 +1,20 @@
+{
+    "name": "livekala/province",
+    "description": "This is a complete list of Iran’s provinces and cities for Apiato.",
+    "type": "apiato-container",
+    "extra": {
+        "apiato": {
+            "container": {
+                "name": "Province"
+            }
+        },
+        "laravel": {
+            "providers": [
+                "App\\Containers\\Vendor\\Province\\Providers\\ProvinceServiceProvider"
+            ]
+        }
+    },
+    "require": {
+
+    }
+}
